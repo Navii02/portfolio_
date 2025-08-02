@@ -68,7 +68,7 @@ export default function Footer() {
                 className="text-decoration-none"
                 style={{ color: '#0d6efd', fontSize: '1rem' }}
               >
-                +91-9876543210
+                +91-9061949268
               </a>
             </div>
           </div>
